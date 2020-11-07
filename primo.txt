@@ -3,6 +3,6 @@ Sistemi versionamento centralizzati
 1 server centrale (e nel caso centralizzato è uno ed uno solo)
 Localmente ogni programmatore ha (quasi) l’ultima versione del repository, e comunque la “insegue”, nel senso che cerca di aggiornare spesso la versione locale.
 Più facile da usare ed amministrare
-Dipendenza dal server, nel senso che devi essere connesso alla rete
+Dipendenza dal server, nel senso che devi essere connesso alla rete telefonica
 Unica repository centrale
 Pochi comandi da ricordare

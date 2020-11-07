@@ -1,0 +1,7 @@
+Sistemi versionamento centralizzati
+
+1 server centrale
+Localmente ogni programmatore ha (quasi) l’ultima versione del repository, e comunque la “insegue”
+Più facile da usare ed amministrare
+Dipendenza dal server
+Unica repository centrale

@@ -5,3 +5,4 @@ Localmente ogni programmatore ha (quasi) l’ultima versione del repository, e c
 Più facile da usare ed amministrare
 Dipendenza dal server
 Unica repository centrale
+Pochi comandi da ricordare

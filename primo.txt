@@ -1,6 +1,6 @@
 Sistemi versionamento centralizzati
 
-1 server centrale
+1 server centrale (e nel caso centralizzato è 1 ed 1 solo)
 Localmente ogni programmatore ha (quasi) l’ultima versione del repository, e comunque la “insegue”
 Più facile da usare ed amministrare
 Dipendenza dal server

@@ -6,3 +6,4 @@ Più facile da usare ed amministrare.
 Dipendenza dal server, nel senso che devi essere connesso alla rete dati.
 Unica repository centrale, nella maggior parte dei casi.
 Pochi comandi da ricordare, circa un decimo del totale.
+Fork

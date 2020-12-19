@@ -4,5 +4,5 @@ Sistemi versionamento centralizzati
 Localmente ogni programmatore ha (quasi) l’ultima versione del repository, e comunque la “insegue”, nel senso che cerca di aggiornare spesso la versione locale.
 Più facile da usare ed amministrare.
 Dipendenza dal server, nel senso che devi essere connesso alla rete dati.
-Unica repository centrale.
+Unica repository centrale, nella maggior parte dei casi.
 Pochi comandi da ricordare, circa un decimo del totale.

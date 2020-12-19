@@ -1,4 +1,4 @@
-Sistemi versionamento centralizzati
+Sistemi versionamento centralizzati.
 
 Un server centrale (e nel caso centralizzato è uno ed uno solo).
 Localmente ogni programmatore ha (quasi) l’ultima versione del repository, e comunque la <<insegue>>, nel senso che cerca di aggiornare spesso la versione locale.
